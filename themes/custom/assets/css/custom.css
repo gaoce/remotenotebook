@@ -1,0 +1,12 @@
+body {
+    margin: 0 auto;
+}
+article {
+    max-width:800px;
+    margin: 0 auto;
+}
+
+.navbar-brand #blog-title {
+    padding: 20px 0;
+    display: inline-block;
+}
