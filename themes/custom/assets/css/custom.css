@@ -1,12 +1,9 @@
-body {
-    margin: 0 auto;
-}
-article {
-    max-width:800px;
-    margin: 0 auto;
+.entry-title {
+    font-size:26px;
 }
 
 .navbar-brand #blog-title {
-    padding: 20px 0;
+    padding: 12px 0;
     display: inline-block;
+    font-size: 32px;
 }
