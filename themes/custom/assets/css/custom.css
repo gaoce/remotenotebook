@@ -2,6 +2,10 @@
     font-size:26px;
 }
 
+.navbar-brand  {
+    margin-left:-15px;
+}
+
 .navbar-brand #blog-title {
     padding: 12px 0;
     display: inline-block;
