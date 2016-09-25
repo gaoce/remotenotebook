@@ -14,6 +14,7 @@ Sorting is a very fundamental job in programming. I'm confused with three R
 functions, `sort`, `order` and `rank`. Here I give some use cases to understand 
 them.
 
+<!-- TEASER_END -->
 ## sort
 Sort a vector or factor.
 
